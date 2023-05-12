@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\Учеба\плюсы\dictlist\dictlist\dict.h(327): warning C4715: dictList<int>::operator[]: значение возвращается не при всех путях выполнения
-  dictlist.vcxproj -> D:\Учеба\плюсы\dictlist\x64\Debug\dictlist.exe
